@@ -46,4 +46,3 @@ Enter currency codes and amounts when prompted; type `done` when finished.
 Python · `requests` · FRED REST API · currency conversion & risk-threshold logic
 
 ---
-Built by Niyat Thapa. AI tools were used to help debug and review parts of this script; the design, business logic, and final work are the author's own.
