@@ -46,3 +46,11 @@ Enter currency codes and amounts when prompted; type `done` when finished.
 Python · `requests` · FRED REST API · currency conversion & risk-threshold logic
 
 ---
+
+## Author
+
+**Niyat Thapa** — Finance student at the University of Lethbridge.
+
+- GitHub: [Immortal-Ancestor](https://github.com/Immortal-Ancestor)
+- Portfolio: [immortal-ancestor.github.io](https://immortal-ancestor.github.io/)
+- LinkedIn: [Niyat Thapa](https://www.linkedin.com/in/niyat-thapa-229028308)
